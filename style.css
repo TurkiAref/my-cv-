@@ -10,7 +10,7 @@ p{
     color: aliceblue;
 }
 table{
-    font-size: medium;
+    font-size: small;
     font-style: italic;
     color: aliceblue;
 }
@@ -31,5 +31,8 @@ h1{
 ol{
     font-size: medium;
     font-style: italic;
+    color: aliceblue;
+}
+hr{
     color: aliceblue;
 }
