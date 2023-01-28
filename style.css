@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-style: italic;
+    font-size: medium;
+    table-layout: auto;
+    
+    
+}
+p{
+    color: aliceblue;
+}
+table{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
+
+ul{
+
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+
+}
+h1{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+
+}
+ol{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
